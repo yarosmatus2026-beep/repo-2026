@@ -48,3 +48,4 @@ for number in number_list[1:-1]:
         highest_multi = multi2
     n_counter += 1
 print("Найбільший добуток вийшов", highest_multi)
+# i hate everything in the world i am da monsta....
